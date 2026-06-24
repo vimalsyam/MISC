@@ -1,1 +1,126 @@
-Test 
+Analyze this codebase and explain it as if I am a senior engineer joining the team.
+
+Produce:
+
+1. System overview
+2. Business purpose
+3. Main user journeys
+4. Architecture diagram (text)
+5. Entry points
+6. Major modules
+7. Database architecture
+8. External integrations
+9. Authentication flow
+10. Deployment architecture
+11. Potential technical debt
+12. Files I should read first
+
+Do not explain every file.
+Focus on helping me become productive quickly.
+
+
+
+Show me the call flow for a typical user request.
+
+Start from:
+UI
+→ API
+→ Service
+→ Repository
+→ Database
+
+Show actual files involved.
+
+
+What is the most important business workflow in this application?
+
+Show me:
+1. User action
+2. API endpoint
+3. Service layer
+4. Database tables
+5. External systems
+
+Give exact files.
+
+
+
+If I have only 4 hours to understand this project,
+what order should I read files in?
+
+Give me a prioritized list.
+
+1. README.md
+2. settings.py
+3. urls.py
+4. search/views.py
+5. search/services/search_service.py
+6. document/models.py
+7. deployment configs
+
+
+Create onboarding documentation for a senior engineer.
+
+Include:
+- Architecture
+- Data flow
+- Folder structure
+- Database schema
+- API summary
+- Deployment flow
+- Common debugging techniques
+
+Save as PROJECT_GUIDE.md
+
+
+
+Analyze all Django models.
+
+Explain:
+1. Core entities
+2. Relationships
+3. Business meaning
+4. Most important tables
+5. High traffic tables
+
+
+
+Explain how this application reaches production.
+
+Analyze:
+- Docker
+- CI/CD
+- Kubernetes
+- ECS
+- Terraform
+- GitHub Actions
+
+Create deployment diagram.
+
+
+You are a principal engineer helping a new team member understand this codebase.
+
+Analyze the entire repository and produce:
+
+1. Business purpose
+2. System architecture
+3. Folder structure explanation
+4. Request lifecycle
+5. Database design
+6. Authentication and authorization
+7. External integrations
+8. Background jobs
+9. Deployment architecture
+10. Most critical business workflows
+11. Technical debt and risks
+12. Top 20 files I should read first
+13. Suggested learning order for my first week
+
+Focus on helping me become productive as quickly as possible.
+Avoid explaining every file individually.
+Create diagrams using ASCII where helpful.
+
+
+
+
+Create a 7-day onboarding plan for this project.
