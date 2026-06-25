@@ -124,3 +124,14 @@ Create diagrams using ASCII where helpful.
 
 
 Create a 7-day onboarding plan for this project.
+
+
+
+1. Keep API contracts documented.
+2. Keep React isolated to one mount point.
+3. Avoid business logic duplication in React.
+4. Have rollback support for React bundle versions.
+5. Add integration tests for Django page + React asset loading.
+6. Track frontend errors using logging/monitoring.
+7. Make sure CSRF/session/auth handling is secure.
+8. Make streaming via SSE/WebSocket clean and reliable.
